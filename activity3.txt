@@ -1,3 +1,6 @@
 GitHub Fundamentals I
 Repositories and Commits
 Activity 3
+
+This repository demonstrates basic GitHub repository management
+and version control through multiple descriptive commits.
